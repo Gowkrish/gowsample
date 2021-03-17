@@ -3,4 +3,6 @@
 -always do null check
 -make code refactoring ?....:....;
 -meaningful function names
+-make sure last element do not loop in SR
+-
 -
